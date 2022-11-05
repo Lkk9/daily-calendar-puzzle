@@ -1,0 +1,14 @@
+{
+  "name": "daily-calendar-puzzle",
+  "version": "1.0.0",
+  "description": "solve your daily infinity calendar puzzle for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dcp"
+  ],
+  "author": "snippah",
+  "license": "ISC"
+}
