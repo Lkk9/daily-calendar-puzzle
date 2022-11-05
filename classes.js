@@ -180,7 +180,7 @@ class Piece {
     push()
 
     fill('#000')
-    strokeWeight(10)
+    strokeWeight(5)
     this.structure.blocks.forEach(block => {
       rect(this.x+block.x*size, this.y+block.y*size, size)
     })
